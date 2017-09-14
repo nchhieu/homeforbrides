@@ -116,10 +116,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=homeforbrides2.db.7489302.hostedresource.com;dbname=homeforbrides2',
+			'connectionString' => 'mysql:localhost',
 			'emulatePrepare' => true,
 			'username' => 'homeforbrides2',
-			'password' => 'ABCD@123com',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 		
