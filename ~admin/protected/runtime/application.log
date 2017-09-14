@@ -1,0 +1,36 @@
+2016/09/27 09:36:41 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:36:41 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:38:15 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:38:15 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:08 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:08 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:31 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:31 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:57 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:39:57 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:41:28 [warning] [application] Failed to set unsafe attribute "post_thumb" of "Post".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (216)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
+2016/09/27 09:41:28 [warning] [application] Failed to set unsafe attribute "post_header_photo" of "PostContent".
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/protected/controllers/PostController.php (266)
+in /home/content/02/7489302/html/websites/homeforbrides.com/v2/~admin/index.php (15)
